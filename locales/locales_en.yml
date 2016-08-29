@@ -1,0 +1,113 @@
+Messages:
+  cantbegreaterthanmax: §7The number can't be greater than max.
+  chat_prefix: §7<PLAYER> §8§l»§7 §f<MESSAGE>
+  death_message_title: §cDEATH IS CLOSE!
+  death_message: §7Someone got killed.
+  debug_done: §7Ending current game and resetting game...
+  debug_kick: §7Game finished, resetting game.
+  disable_1: §7Roos has been closed.
+  drops_1: §7In §2<MAP> §7map number §a<NO>. §7has been set for drop scraps.
+  drops_error_1: §7You didn't set the previous drop. §f(#<NO>)
+  enable_1: §7Game activated.
+  enter_arena_name: §7You forgot to set map name.
+  enter_num: §7Please enter a number.
+  game_closed: §7This room is closed.
+  game_ended: §7Time is up, no one wins.
+  game_end: §c<TIME> §7minutes to finish.
+  game_finishing: §7This room is ending soon.
+  game_full: §7This room is full.
+  game_ingame: §7This room has already started.
+  game_notfound: §7Can't find the room.
+  game_players: §7Game will start when §f<NO> §7people join!
+  game_timer_problem: §7Counter has been stopped because of someone leaved.
+  gun_has_2: §7You have a gun.
+  gun_has: §7You can only create 1 gun per game.
+  help_other_page: §7You can write §f/murderer help <PAGE> for the next help page.
+  help_page_1_1: §f/murderer createmap §8§l§m-§r §7Creates map.
+  help_page_1_2: §f/murderer removemap §8§l§m-§r §7Deletes map.
+  help_page_1_3: §f/murderer itemdrop §8§l§m-§r §7Sets where should scraps spawn.
+  help_page_1_4: §f/murderer spawnpoint §8§l§m-§r §7Sets where should players spawn.
+  help_page_2_1: §f/murderer enable §8§l§m-§r §7Activates game.
+  help_page_2_2: §f/murderer disable §8§l§m-§r §7De-activates game.
+  help_page_2_3: §f/murderer debug §8§l§m-§r §7Resets game.
+  help_page_2_4: §f/murderer setlobby §8§l§m-§r §7Sets room lobby.
+  help_page_3_1: §f/murderer start §8§l§m-§r §7Force Starts for room.
+  help_page_3_2: §f/murderer reload §8§l§m-§r §7Reloads the plugin.
+  hit_with_knife: §7You can only hit with your knife.
+  inno_kill_e: §7Your gun has been taken because of you killed an innocent.
+  inno_title_1: §aINNOCENT!
+  inno_title_2: §7Try to survive!
+  inno_you: §7You are innocent, don't trust anyone. Murderer can be anyone. Get scraps and make gun.
+  iron_trick: §7You can't make a gun from scraps but you can trick innocents with them.
+  joined_game: §a<PLAYER>§7, has joined. §7[§f<COUNT>§7/§f<MAX>§7]
+  killed_inno: §7You got weak because you killed an innocent.
+  killed: §7You got killed and you are a spectator now.
+  leave_done: §7You leaved the room and sent to lobby.
+  leave_header: §cGet back to Lobby
+  leave_message: §c<PLAYER>§7, has leaved. §7[§f<COUNT>§7/§f<MAX>§7]
+  lobby_1: §7Succesfully set lobby.
+  lucky_inno_item_lore: '||§7§oFound the murderer and kill with a one bullet.||§7§oBe careful, you will wait for your next shot.'
+  lucky_inno_item: §eR8 Revolver
+  lucky_inno_title_1: §2ARMED INNOCENT!
+  lucky_inno_title_2: §7Found the murderer and kill!
+  lucky_inno_you: §7You are armed innocent, don't show your gun. Murderer can see and kill you first.
+  map_created_1: §7Map §a<MAP> §7has been created.
+  map_created_2: §7You can set the spawn points with §f/murderer spawnpoint <MAP> <number> §7command.
+  map_created_3: §7You can set the scrap drops with §f/murderer itemdrop <MAP> <number> §7command.
+  map_exists: §7This name has given to a map already.
+  map_no_exists: §7Couldn't find the map.
+  map_removed: §7Deleted the §c<MAP> §7 map.
+  menu_header_prefix: §8§l» §8
+  menu_header: Murderer
+  menu_lore_1: '§7Murderer Kills: §f<MKILL>||§7Innocent Kills: §f<IKILL>||§7Deaths: §f<DEATHS>||§7Game
+    number: §f<GAMES>'
+  menu_lore_2: Innocents must kill the murderer.||§7One lucky innocent will start with a gun.||§7Other innocents can take scraps and make a gun.||||§7Murderer must kill all innocents.||§7They will look like a friend and trick innocents.
+  gamemode_0: Murderer vs Innocent (Normal)
+  gamemode_1: Everyone is Murderer
+  menu_lore_prefix: '||§7'
+  menu_name_1: Profile
+  menu_name_2: Help
+  menu_name_3: Gamemode
+  menu_name_prefix: §6
+  min_1: §7You must input a number (Must be higher than 0).
+  murderer_compass: §7The Murderer, used his Randomizer and randomed locations.
+  murderer_item_2: §eRandomizer
+  murderer_item_lore_2: '||§7§oThis item will change innocents location.'
+  murderer_item_lore: '||§7§oThis knife will kill innocents in a one hit.'
+  murderer_item: §eMurderer Knife
+  murderer_kill: §7You killed an innocent, §e<COUNT> §7innocent left.
+  murderer_kill_2: §7You killed one of them, §e<COUNT> §7left.
+  murderer_quit: §7Game stopped because of murderer has logged out.
+  murderer_title_1: §cMURDERER!
+  murderer_title_2: §7You must kill all innocents.
+  murderer_title_3: §7You must kill all murderers.
+  murderer_you: §7You are murderer, you must play like an innocent and kill them.
+  murderer_you_2: §7You are murderer, like everyone :P
+  no_action_lobby: §7You can't use commands in-game!.
+  no_chat: §7You can't chat while you are in game.
+  no_drop: §7You can't give items while you are in game.
+  no_perm: §7You don't have permission to perform this.
+  not_enough: §7Not enough players!
+  prefix: §c§lMurderer §8§l»§7
+  random_map: §7Map has chosen randomly and selected: §e<MAP>.
+  shop_header: §bShop
+  spawnpoint_1: §7In §2<MAP> §7you set number §a<NO>. §7spawn.
+  spawnpoint_error_1: §7You can't set the spawn §f(#<NO>) §7because you didn't set the previous spawn.
+  spec_chat_prefix: §8[Spectator] §7<PLAYER> §8§l»§7 §f<MESSAGE>
+  start_done: §7Game started.
+  start_title: §bGAME STARTING...
+  timer_cooldown: §a<TIME> §7seconds to start the game.
+  timer_title: §aTICK TOCK!
+  unknown_command: §7Unknown command.
+  unknown_leave: '§7You are not in a room. §4[ERROR CODE: unknown_leave_error]'
+  weapon_name: §eGun Scrap
+  win_title: '§6WINNER:'
+  winner_message_2: §7Game over, §7murderer §4(<PLAYER>) §7won!
+  winner_message: §7Game over, §7innocent §b<PLAYER1>§7, killed murderer §4<PLAYER2> §7and won the game.
+  winner_title_2: §bInnocents §7has won.
+  winner_title_3: §4Murderer §7has won.
+  winner_title: §6GAME OVER
+  MySQL_Error: §cCan't connect to MySQL...
+  Time_Done: §7Time is up, murderer couldn't killed all innocents.
+  Reloading_1: §7Reloading...
+  Reloading_2: §7Reloaded all files!
