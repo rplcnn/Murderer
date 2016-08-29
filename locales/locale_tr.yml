@@ -1,0 +1,115 @@
+#Messages version 1.0
+Messages:
+  cantbegreaterthanmax: §7Girdiğin sayı maksimum oyuncu sayısını geçiyor.
+  chat_prefix: §7<PLAYER> §8§l»§7 §f<MESSAGE>
+  death_message_title: §cÖLÜM KAPIDA!
+  death_message: §7Birisi öldürüldü.
+  debug_done: §7Mevcut oyun sonlandırılıyor ve eski haline getiriliyor...
+  debug_kick: §7Oyun sonlandı, sunucu sıfırlanıyor.
+  disable_1: §7Oyuna girişler kapatıldı.
+  drops_1: §2<MAP> §7haritasının §a<NO>. §7eşya noktası belirlendi.
+  drops_error_1: §7Bir önceki §f(#<NO>) §7eşya noktasını belirlememişsin.
+  enable_1: §7Oyun aktif edildi.
+  enter_arena_name: §7Harita ismini girmeyi unuttun.
+  enter_num: §7Lütfen bir sayı gir.
+  game_closed: §7Bu oda kapalı.
+  game_ended: §7Süre doldu, kazanan olmadı.
+  game_end: §7Oyunun sonlanmasına §c<TIME> §7dakika var.
+  game_finishing: §7Bu oda bitiyor.
+  game_full: §7Bu oda dolu.
+  game_ingame: §7Bu odada oyun başlamış.
+  game_notfound: §7Bu oda bulunamadı.
+  game_players: §7Oyuna §f<NO> §7kişi daha girdiğinde oyun başlayacak!
+  game_timer_problem: §7Oyundan birisi ayrıldığı için sayım durduruldu.
+  gun_has_2: §7Bir silahın var.
+  gun_has: §7Bir oyunda en fazla 1 silah üretilebilir.
+  help_other_page: §7Diğer yardım sayfasına geçmek için §f/murderer help <PAGE> §7yazabilirsiniz.
+  help_page_1_1: §f/murderer createmap §8§l§m-§r §7Harita oluşturur.
+  help_page_1_2: §f/murderer removemap §8§l§m-§r §7Haritayı siler.
+  help_page_1_3: §f/murderer itemdrop §8§l§m-§r §7Demirlerin çıkacağı yerleri ayarlar.
+  help_page_1_4: §f/murderer spawnpoint §8§l§m-§r §7Doğuş noktalarını ayarlar.
+  help_page_2_1: §f/murderer enable §8§l§m-§r §7Oyunu aktif eder.
+  help_page_2_2: §f/murderer disable §8§l§m-§r §7Oyunu devre-dışı bırakır.
+  help_page_2_3: §f/murderer debug §8§l§m-§r §7Oyunu sıfırlar, eski haline getirir.
+  help_page_2_4: §f/murderer setlobby §8§l§m-§r §7Oyun lobisini belirler.
+  help_page_3_1: §f/murderer start §8§l§m-§r §7Oyunu hemen başlatır.
+  help_page_3_2: §f/murderer reload §8§l§m-§r §7Eklentiyi yeniler.
+  hit_with_knife: §7Sadece bıçağın ile vurabilirsin.
+  inno_kill_e: §7Masum öldürdüğün için silahın gitti.
+  inno_title_1: §aMASUMSUN!
+  inno_title_2: §7Hayatta kalmaya çalış.
+  inno_you: §7Masumsun, kimseye güvenme. Katil aranızdan birisi olabilir. Eşya topla ve silah üret.
+  iron_trick: §7Demirlerden silah yapamazsın ama masumları kandırmak için kullanabilirsin.
+  joined_game: §a<PLAYER>§7, odaya katıldı. §7[§f<COUNT>§7/§f<MAX>§7]
+  killed_inno: §7Bir masumu öldürdüğün için zayıflatıldın.
+  killed: §7Öldürüldün ve izleyici moduna geçtin.
+  leave_done: §7Odadan ayrıldınız ve lobiye gönderildiniz.
+  leave_header: §cLobiye Geri Dön
+  leave_message: §c<PLAYER>§7, odadan ayrıldı. §7[§f<COUNT>§7/§f<MAX>§7]
+  lobby_1: §7Lobiyi ayarladın.
+  lucky_inno_item_lore: '||§7§oKatili bul ve tek kurşunda öldür.||§7§oDikkat et, diğer
+    atışın için bekleyebilirsin.'
+  lucky_inno_item: §eR8 Revolver
+  lucky_inno_title_1: §2SİLAHLI MASUMSUN!
+  lucky_inno_title_2: §7Katili bul ve öldür!
+  lucky_inno_you: §7Silahlı masumsun, silahının olduğunu gösterme. Katil görüp ilk seni öldürebilir.
+  map_created_1: §7Harita §a<MAP> §7oluşturuldu.
+  map_created_2: §7Haritanının doğuş yerlerini §f/murderer spawnpoint <MAP> <sayı> §7yazarak belirle.
+  map_created_3: §7Haritanının eşya yerlerini §f/murderer itemdrop <MAP> <sayı> §7yazarak ayarla.
+  map_exists: §7Böyle bir harita ismi zaten var.
+  map_no_exists: §7Yazdığın harita bulunamadı.
+  map_removed: §c<MAP> §7haritasını sildin.
+  menu_header_prefix: §8§l» §8
+  menu_header: Murderer
+  menu_lore_1: '§7Katil öldürme: §f<MKILL>||§7Masum öldürme: §f<IKILL>||§7Ölme: §f<DEATHS>||§7Oyun
+    sayısı: §f<GAMES>'
+  menu_lore_2: Masumların amacı katili bulup öldürmektir.||§7Bir şanslı masum silah ile başlar.||§7Diğer masumlar demir toplayarak silah yapabilirler.||||§7Katilin amacı tüm masumları öldürmektir.||§7Masumlar gibi görünür, aralarına sızar.
+  gamemode_0: Katil vs Masumlar (Normal)
+  gamemode_1: Herkes Katil
+  menu_lore_prefix: '||§7'
+  menu_name_1: Profil
+  menu_name_2: Yardım
+  menu_name_3: Oyunmodu
+  menu_name_prefix: §6
+  min_1: §7Girdiğin sayı en az 1 olmalıdır.
+  murderer_compass: §7Katil, rastgeleyici eşyasını kullanarak herkesin yerini değiştirdi.
+  murderer_item_2: §eRastgeleyici
+  murderer_item_lore_2: '||§7§oOyundaki herkesin yerini değiştir.'
+  murderer_item_lore: '||§7§oBu bıçak masumları tek vuruşta öldürür.'
+  murderer_item: §eKatilin bıçağı
+  murderer_kill: §7Bir masumu öldürdün, geriye §e<COUNT> §7masum kaldı.
+  murderer_kill_2: §7Bir kişiyi öldürdün, geriye §e<COUNT> §7kişi kaldı.
+  murderer_quit: §7Katil oyundan çıktığı için oyun iptal oldu.
+  murderer_title_1: §cKATİLSİN!
+  murderer_title_2: §7Amacın tüm masumları öldürmek.
+  murderer_title_3: §7Amacın tüm katilleri öldürmek.
+  murderer_you: §7Katil sensin, amacın masum gibi davranıp onları öldürmek.
+  murderer_you_2: §7Katil sensin tıpkı herkes gibi :P
+  no_action_lobby: §7Oyundayken hiçbir eylem gerçekleştiremezsiniz.
+  no_chat: §7Oyundayken sohbeti kullanamazsın.
+  no_drop: §7Oyunda eşya atamazsın.
+  no_perm: §7Bu komut için yeterli iznin yok.
+  not_enough: §7Yeteri kadar oyuncu yok.
+  prefix: §c§lMurderer §8§l»§7
+  random_map: §7Rastgele olarak §e<MAP> §7haritası seçildi.
+  shop_header: §bEşya Marketi
+  spawnpoint_1: §2<MAP> §7haritasının §a<NO>. §7doğuş noktası belirlendi.
+  spawnpoint_error_1: §7Bir önceki §f(#<NO>) §7doğuş noktasını belirlememişsin.
+  spec_chat_prefix: §8[Ölü] §7<PLAYER> §8§l»§7 §f<MESSAGE>
+  start_done: §7Oyun başlatıldı.
+  start_title: §bOYUN BAŞLIYOR...
+  timer_cooldown: §7Oyunun başlamasına §a<TIME> §7saniye kaldı.
+  timer_title: §aSAAT İŞLİYOR...
+  unknown_command: §7Böyle bir alt-komut yok.
+  unknown_leave: '§7Odada değilsiniz. §4[HATA KODU: unknown_leave_error]'
+  weapon_name: §eSilah Parçacığı
+  win_title: '§6KAZANAN:'
+  winner_message_2: §7Oyun bitti, §7katil §4(<PLAYER>) §7oyunu kazandı.
+  winner_message: §7Oyun bitti, §7masum §b<PLAYER1>§7, katil §4<PLAYER2> §7oyuncusunu öldürerek masumların kazanmasını sağladı.
+  winner_title_2: §bMasumlar §7oyunu kazandı.
+  winner_title_3: §4Katil §7oyunu kazandı.
+  winner_title: §6OYUN BİTTİ
+  MySQL_Error: §cMySQL veritabanına bağlanılamadı...
+  Time_Done: §7Süre doldu, katil süre dolmadan herkesi öldüremediği için kaybetti.
+  Reloading_1: §7Tüm dosyalar tekrardan okunuyor...
+  Reloading_2: §7Tüm dosyalar yeniden okundu!
