@@ -89,7 +89,7 @@ Messages:
   no_perm: §7You don't have permission to perform this.
   not_enough: §7Not enough players!
   prefix: §c§lMurderer §8§l»§7
-  random_map: §7Map has chosen randomly and selected: §e<MAP>.
+  random_map: '§7Map has chosen randomly and selected: §e<MAP>.'
   shop_header: §bShop
   spawnpoint_1: §7In §2<MAP> §7you set number §a<NO>. §7spawn.
   spawnpoint_error_1: §7You can't set the spawn §f(#<NO>) §7because you didn't set the previous spawn.
